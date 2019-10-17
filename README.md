@@ -1,4 +1,4 @@
-# Hacktoberfest Census
+# Hacktoberfest Census for 2019
 
 A census of those participating in Hacktoberfest (and an easy PR!)
 
@@ -7,7 +7,6 @@ This census has a live webpage [here](https://cutwell.github.io/Hacktoberfest-Ce
 ---
 ![Hacktoberfest-Census](static/img/Hackcensus.png "Hacktoberfest-Census")
 ---
-
 ### A Short Letter to Contributors
 Hi All, old or new Hacktoberfest contributors!
 
